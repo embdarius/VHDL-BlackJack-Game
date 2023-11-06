@@ -4,4 +4,4 @@
 Made using: Logisim Evolution\
 Purpose: 1st Year CompSci University Project\
 How to use: See documentation \
-Prerequisites: Logisim Evolution with Simulation working\
+Prerequisites: Logisim Evolution with Simulation working
