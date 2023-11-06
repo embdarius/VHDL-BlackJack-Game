@@ -4,4 +4,5 @@
 Made using: Logisim Evolution\
 Purpose: 1st Year CompSci University Project\
 How to use: See documentation \
-Prerequisites: Logisim Evolution with Simulation working
+Prerequisites: Logisim Evolution with Simulation working\
+![circuit_screenshot](https://github.com/embdarius/VHDL-BlackJack-Game/assets/150078722/bd1c21af-0971-45ef-aa0a-22c4f3dae0e5)
